@@ -9,7 +9,7 @@
 //       // cek angka atau bukan
 //       throw new Error("input is not Number");
 //     } else if (num > 10) {
-//       // cek apkah lebih dari 10
+//       // cek apakah lebih dari 10
 //       throw new Error("Input is too high");
 //     } else if (num < 6) {
 //       // cek apakah kurang dari 6
