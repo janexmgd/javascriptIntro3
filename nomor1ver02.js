@@ -27,4 +27,4 @@ const cekNum = (num) => {
   }
 };
 
-cekNum(10);
+cekNum("");

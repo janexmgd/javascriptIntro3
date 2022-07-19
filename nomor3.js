@@ -23,7 +23,7 @@ const randomID = (idlength) => {
     }, 5000);
   });
 };
-randomID(3)
+randomID(5)
   .then((newstr) => {
     console.log(newstr);
   })

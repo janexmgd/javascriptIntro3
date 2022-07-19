@@ -1,0 +1,23 @@
+{
+  "name": "kls_prspn_javascriptintro3",
+  "description": "tugas kelas persiapan javascript intro 3 made with ❤️ by denny",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janexmgd/kls_prspn_javascriptIntro3.git"
+  },
+  "author": "denny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janexmgd/kls_prspn_javascriptIntro3/issues"
+  },
+  "homepage": "https://github.com/janexmgd/kls_prspn_javascriptIntro3#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.9"
+  }
+}
